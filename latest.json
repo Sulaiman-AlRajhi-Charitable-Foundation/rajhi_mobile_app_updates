@@ -1,13 +1,13 @@
 {
-  "apkUrl": "https://github.com/Sulaiman-AlRajhi-Charitable-Foundation/rajhi_mobile_app_updates/releases/download/v0.0.2+2/rajhi-foundation-v0.0.2+2.apk",
-  "fileSizeBytes": 0,
+  "versionName": "0.0.2",
+  "versionCode": 3,
   "minVersionCode": 0,
+  "apkUrl": "https://github.com/Sulaiman-AlRajhi-Charitable-Foundation/rajhi_mobile_app_updates/releases/download/v0.0.2+3/rajhi-foundation-v0.0.2+3.apk",
+  "sha256": "eb1d7c0a841293798957545a5c1e5174da1b5d934c608e5ba8cf2c0f0028a8a1",
+  "fileSizeBytes": 64351629,
   "notes": {
-    "ar": "الإصدار الأول من التطبيق.",
-    "en": "First app release."
+    "ar": "إضافة إمكانية تحديث التطبيق من داخل التطبيق",
+    "en": "إضافة إمكانية تحديث التطبيق من داخل التطبيق"
   },
-  "publishedAt": "2026-11-04",
-  "sha256": "9B50C9A16EA372E56695738A65706528255DED4F489332534F5DA727757CD55B",
-  "versionCode": 2,
-  "versionName": "0.0.2"
+  "publishedAt": "2026-11-04"
 }
